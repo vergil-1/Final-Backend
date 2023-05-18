@@ -1,0 +1,19 @@
+﻿{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "vergil123",
+        "database": "FINAL-API"
+    },
+    "secret": "I AM VERGIL",
+    "emailFrom": "info@node-mysql-signup-verification-api.com",
+    "smtpOptions": {
+        "host": "smtp.ethereal.email",
+        "port": 587,
+        "auth": {
+            "user": "lupe89@ethereal.email",
+            "pass": "6CnU1BgajSu6qkFcae"
+        }
+    }
+}
